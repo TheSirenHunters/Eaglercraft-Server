@@ -1,7 +1,7 @@
 enforce_secure_profile: false
 listeners:
 - query_port: 25577
-  motd: '&9Eag1.8.8 SzmP'
+  motd: '&9Eag1.8.8 SMP'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
